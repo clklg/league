@@ -141,11 +141,7 @@ Go to the Riot Games Developer Portal:
 
 https://developer.riotgames.com/
 
-Sign in with a Riot Games account. Riot automatically creates a Developer Portal account and provides a **development API key** for prototyping.
-
 Development keys are temporary and deactivate every 24 hours, so a fresh key may be required whenever Notebook 01 is rerun.
-
-Do not commit the key to GitHub or place it directly inside the notebook.
 
 ### 4. Create a `.env` file
 
