@@ -166,6 +166,8 @@ Run the notebooks in order:
 
 Notebook 01 may take some time because Riot enforces API request limits. The notebook deliberately spaces requests and respects `Retry-After` responses when rate-limited.
 
+The results in Notebook 02 are specific to the collected sample and may differ when the data collection and analysis are reproduced with a new sample of players.
+
 ## Riot API endpoints used
 
 The collection notebook uses two main API families:
